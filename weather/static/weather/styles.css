@@ -1,0 +1,18 @@
+body {
+    background-color: #74abee; /* Primary blue color */
+}
+
+p {
+    margin-bottom: 0.5rem;
+}
+
+.todays-summary {
+    background-color: rgba(82, 145, 222, 0.411); /* 20% grayed version of #5291de */
+    border-radius: 30px;
+}
+
+.img-fluid {
+    max-width: 50%;
+    height: auto;
+}
+
